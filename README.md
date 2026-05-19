@@ -1,1 +1,1 @@
-# kk1-btc-analys
+# KK1 – Bitcoin Historisk Prisanalys
